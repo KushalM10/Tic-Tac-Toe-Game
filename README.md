@@ -3,4 +3,4 @@
 <h2>
   its a beginner project for learning <b>JS</b> 
 </h2>
-<img src="E:\web quiz\Tic-Tac-Toe\toe">
+<img src="toe.png">
